@@ -1,0 +1,5 @@
+Personal Expense Tracker — Summary
+
+This project is a lightweight command-line tool developed in Python to record and analyze personal expenses.
+It demonstrates Python skills in file handling (CSV), modular code structure, user input validation, and basic data summarization.
+The program persists data to a CSV file and supports adding new expenses, viewing all entries, summarizing totals and category-wise spending, and exporting a simple text report.
